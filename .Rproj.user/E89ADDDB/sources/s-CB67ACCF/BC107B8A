@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579868361992.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BC107B8A",
+    "lastKnownWriteTime" : 1579870889,
+    "last_content_update" : 1579870889004,
+    "path" : "~/Documents/projects/r_project/coding_practice/Euler_Project_2-Even_Fibonacci_numbers.R",
+    "project_path" : "Euler_Project_2-Even_Fibonacci_numbers.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

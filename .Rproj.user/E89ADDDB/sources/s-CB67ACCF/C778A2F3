@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579867550511.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1559639217",
+    "id" : "C778A2F3",
+    "lastKnownWriteTime" : 1579869352,
+    "last_content_update" : 1579869352012,
+    "path" : "~/Documents/projects/r_project/coding_practice/Euler_Project_1-Multiples_of_3_and_5.R",
+    "project_path" : "Euler_Project_1-Multiples_of_3_and_5.R",
+    "properties" : {
+        "cursorPosition" : "24,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

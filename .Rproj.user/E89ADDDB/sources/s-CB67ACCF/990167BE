@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579870914137.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "990167BE",
+    "lastKnownWriteTime" : 1580104398,
+    "last_content_update" : 1580104404167,
+    "path" : "~/Documents/projects/r_project/coding_practice/Euler_Project_3-Largest_prime_factor.R",
+    "project_path" : "Euler_Project_3-Largest_prime_factor.R",
+    "properties" : {
+        "cursorPosition" : "5,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
